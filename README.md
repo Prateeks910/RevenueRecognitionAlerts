@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This README.md file is displayed on your project page. You should edit this 
 file to describe your project, including instructions for building and 
 running the project, pointers to the license under which you are making the 
@@ -15,3 +16,7 @@ eye-catching graphic.
 
 Finally, consider defining a timeline and work items on the "Current Work" tab 
 to give interested developers a sense of your cadence and upcoming enhancements.
+=======
+RevenueRecognitionAlerts
+========================
+>>>>>>> 9908376694a9dad35fd70ec6033f3007e9a7c2fc
